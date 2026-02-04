@@ -4,7 +4,6 @@ import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import '../assets/styles/Main.scss';
 
 function Main() {
-
   return (
     <div className="container">
       <div className="about-section">
